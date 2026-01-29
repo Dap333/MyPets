@@ -1,2 +1,0 @@
-test_login, test_password
-sf_student5, LuwAwJf
