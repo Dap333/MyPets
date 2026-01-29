@@ -2,5 +2,5 @@ name, age, type
 Tom, 2, кот
 Garfield,5, кот
 Jerry, 1, мышь
-
+Гриша, 7, попугай
 Chip, 5, бурундук
